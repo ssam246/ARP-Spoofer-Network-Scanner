@@ -23,7 +23,7 @@ A Python-based tool designed for network scanning and ARP spoofing. This project
 
 ## **Requirements**
 
-1. **Python 3.x** installed on your system.
+1. **Python 3.10.10** installed on your system.
 2. **Root Privileges**: This script requires administrative permissions.
 3. **Dependencies**: Install required Python libraries:
    ```bash
@@ -39,7 +39,7 @@ A Python-based tool designed for network scanning and ARP spoofing. This project
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/arp-spoofer.git
+git clone https://github.com/ssam246/ARP-Spoofer-Network-Scanner
 cd arp-spoofer
 ```
 
